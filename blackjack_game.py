@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 from PIL import ImageTk,Image
 from tkinter import messagebox
-import random
+
 import tkinter as tk
 from tkinter import Canvas,PhotoImage,Label
 from  cards import blackjack
